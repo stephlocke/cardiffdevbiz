@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://cardiffdevbiz.netlify.com/"
 title = "Cardiff Dev Group businesses"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
