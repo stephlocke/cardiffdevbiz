@@ -7,7 +7,7 @@ title = "MyGuySi"
 weight = 0
 +++
 
-I am a product design consultant specialising in user experience and interface design. I can help you to explore new ideas, rapidly iterate to pick the right solutions and solve real user problems.
+I am a Product Designer specialising in user experience and interface design. I can help you to explore new ideas, rapidly iterate to pick the right solutions and solve real user problems.
 <!--more-->
 
 - Site: [myguysi.com](//myguysi.com)
