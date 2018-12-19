@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/mockingbirdconsulting_logo.png"
+image = "/img/portfolio/mockingbirdconsulting_logo.png"
 date = "2018-11-05T10:25:22+05:30"
 title = "Mockingbird Consulting"
 weight = 0
