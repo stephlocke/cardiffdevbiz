@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/ablogo.png"
+image = "/img/portfolio/ablogo.png"
 date = "2018-11-05T10:25:22+05:30"
 title = "Alex Bevan - Cloud & DevOps"
 weight = 0
